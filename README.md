@@ -1,8 +1,8 @@
 ### Thanks for visiting my GitHub profile 👋
 
 - 🔭 I’m currently working on: 
-  - Funky Fate: 2D Unity Metroidvania game
-  - Reason Not the Need: Shakespeare in AR
+  - _Funky Fate_: 2D Unity Metroidvania game
+  - _Reason Not the Need_: Shakespeare in AR
   - Finishing my CS degree in August 😅
 - 🌱 I’m currently learning more about Unity
 - 📫 How to reach me:
