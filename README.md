@@ -1,13 +1,13 @@
 ### Thanks for visiting my GitHub profile 👋
 
 - 🔭 I’m currently working on: 
-    • Funky Fate: 2D Unity Metroidvania game
-    • Reason Not the Need: Shakespeare in AR
-    • Finishing my CS degree in August 😅
+  - Funky Fate: 2D Unity Metroidvania game
+  - Reason Not the Need: Shakespeare in AR
+  - Finishing my CS degree in August 😅
 - 🌱 I’m currently learning more about Unity
 - 📫 How to reach me:
-    • email: niallhealy17@gmail.com
-    • Discord: NiallHealy#4836
+  - email: niallhealy17@gmail.com
+  - Discord: NiallHealy#4836
 - 😄 Pronouns: He/Him
 
 
