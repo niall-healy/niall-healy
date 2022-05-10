@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on: 
   - _Funky Fate_: 2D Unity Metroidvania game
-  - _Reason Not the Need_: Shakespeare in AR
-  - Finishing my CS degree in August 😅
+  - _Train Station Blues_: 2D Story Based Game
 - 🌱 I’m currently learning more about Unity
 - 📫 How to reach me:
   - email: niallhealy17@gmail.com
